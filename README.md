@@ -1,1 +1,2 @@
-# ProthomAlo_Poll_Scraper
+# ProthomAlo Poll Scraper
+Scraping this page https://www.prothomalo.com/poll
